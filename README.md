@@ -39,4 +39,4 @@ Place the file in the DRLND GitHub repository, in the `drnld-p1-navigation/` fol
 
 <hr>
 
-Follow the instructions in Navigation.ipynb to get started with training your own agent!
+Follow the instructions in `Navigation.ipynb` to get started with training your own agent!
