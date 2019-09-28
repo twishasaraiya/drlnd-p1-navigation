@@ -1,4 +1,4 @@
-### Project Overview
+### Project Details
 
 <hr>
 
@@ -17,3 +17,25 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 3 - turn right
 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
+
+### Getting Started
+
+<hr>
+
+Download the environment from one of the links below. You need only select the environment that matches your operating system:
+
+Linux: click here
+Mac OSX: click here
+Windows (32-bit): click here
+Windows (64-bit): click here
+(For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
+
+(For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.
+
+Place the file in the DRLND GitHub repository, in the `drnld-p1-navigation/` folder, and unzip (or decompress) the file.
+
+### Instructions
+
+<hr>
+
+Follow the instructions in Navigation.ipynb to get started with training your own agent!
