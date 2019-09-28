@@ -24,7 +24,7 @@ DDQN performed better than DQN with the same hyperparameters
 The model's architecture consists of 
 - FC layer1 of 64 units -> relu
 - FC layer2 of 64 units -> relu
-- 
+- FC layer3 
 
 **Solved the environment in 387 episodes with DDQN Agent**
 
